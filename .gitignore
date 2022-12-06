@@ -1,0 +1,6 @@
+*.apk
+/obj
+/ProjectSettings
+/Temp
+/Packages
+/Logs
